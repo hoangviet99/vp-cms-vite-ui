@@ -1,0 +1,17 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "user": "Users",
+    "users": "Users",
+    "roles": "Roles",
+    "permissions": "Permissions"
+  },
+  "breadcrumb": {
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "users": "Users"
+  },
+  "common": {
+    "logout": "Logout"
+  }
+}

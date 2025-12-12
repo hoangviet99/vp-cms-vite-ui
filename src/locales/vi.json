@@ -1,0 +1,17 @@
+{
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "user": "Người dùng",
+    "users": "Người dùng",
+    "roles": "Vai trò",
+    "permissions": "Quyền"
+  },
+  "breadcrumb": {
+    "profile": "Thông tin cá nhân",
+    "dashboard": "Dashboard",
+    "users": "Người dùng"
+  },
+  "common": {
+    "logout": "Đăng xuất"
+  }
+}
